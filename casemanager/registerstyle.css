@@ -130,6 +130,8 @@ button{
   margin-left: 42%;
   width: 110px;
   height: 30x;
+  margin-bottom: 49%;
+  cursor: pointer;
 }
 h4{
   margin-left: 370px;

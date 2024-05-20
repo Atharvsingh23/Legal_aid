@@ -1,0 +1,25 @@
+body {
+  background: rgba(0, 0, 0, 0.5)
+    url(/Users/atharvasingh/Desktop/HackWithDelhi/images/court-background-aaaf8c9jraq04liu.jpg);
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  background-size: cover;
+}
+.container {
+  position: absolute;
+  margin-left: 36%;
+  margin-top: 6%;
+  width: 400px;
+  height: 450px;
+  background-color: #0f0f0f;
+  background: rgba(0, 0, 0, 0.5);
+  background-blend-mode: hard-light;
+}
+button {
+  width: 300px;
+  height: 100px;
+  margin-left: 14%;
+  margin-top: 15%;
+  cursor: pointer;
+  font-size: 34px;
+}
