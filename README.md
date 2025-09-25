@@ -53,28 +53,6 @@ Open the website in your browser:
 
 # Open index.html in your preferred browser
 
-📸 Screenshots
-🏠 Homepage – Legal Aid Portal
-<p align="center"> <img src="./images/homepage.png" width="700" alt="Homepage"/> </p>
-🗓 Reschedule Form – Submit Court Appointment Request
-<p align="center"> <img src="./images/reschedule.png" width="700" alt="Reschedule Form"/> </p>
-📞 Contact Page – Support & Legal Help
-<p align="center"> <img src="./images/contact.png" width="700" alt="Contact Page"/> </p>
-🔮 Future Enhancements
-
-🗄 Backend Integration – Store user requests and court schedules in a database (MySQL, MongoDB)
-
-📧 Email Notifications – Send confirmation emails upon successful rescheduling
-
-🔐 User Authentication – Secure login for citizens and court officials
-
-📊 Admin Dashboard – Allow court staff to approve, reject, or manage rescheduling requests
-
-🌐 Mobile App Version – Create a responsive or hybrid mobile application
-
-📅 Calendar Integration – Sync appointments with Google Calendar or Outlook
-
-💡 AI Recommendations – Suggest alternative dates based on court availability
 
 ⚠️ Disclaimer
 
